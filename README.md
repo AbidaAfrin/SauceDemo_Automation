@@ -43,3 +43,19 @@ src
          └── tests
                └── SauceDemoTest.java
 
+   src
+ └── test
+     └── java
+         ├── pages
+         │     ├── LoginPage.java
+         │     ├── ProductPage.java
+         │     ├── CartPage.java
+         │     └── MenuOption.java
+         │
+         ├── utilities
+         │     └── BrowserSetup.java
+         │
+         └── tests
+               └── SauceDemoTest.java
+
+
