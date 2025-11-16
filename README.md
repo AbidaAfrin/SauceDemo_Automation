@@ -28,6 +28,7 @@ For this assignment, choosing Java ensured a reliable and well-structured soluti
 4. Run the tests
 
 ## 📂 Project Structure
+```
 src
  └── test
      ├── java
@@ -57,5 +58,6 @@ src
          │
          └── tests
                └── SauceDemoTest.java
+```
 
 
