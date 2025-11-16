@@ -41,7 +41,7 @@ src
          │  │
          │  │  
          │  └─ utilities
-         │  └─ Browsersetup.java
+         │       └─ Browsersetup.java
          └── tests
                └── SauceDemoTest.java
 
