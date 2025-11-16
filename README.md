@@ -36,7 +36,7 @@ src
          ├── pages
          │  │  ├── LoginPage.java
          │  │  ├── ProductPage.java
-         │  │ ├── CartPage.java
+         │  │  ├── CartPage.java
          │  │  └── MenuOption.java
          │  │
          │  │  
