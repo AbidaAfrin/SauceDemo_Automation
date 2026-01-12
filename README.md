@@ -1,7 +1,7 @@
-N.B: I have done this project using playwright with java.Although the assignment instructed to use Playwright with JavaScript, I completed the automation using Playwright with Java, which I am currently more proficient in.
+<!-- N.B: I have done this project using playwright with java.Although the assignment instructed to use Playwright with JavaScript, I completed the automation using Playwright with Java, which I am currently more proficient in.
 Due to the limited timeframe, writing a robust and well-structured test suite was more efficient in Java.
 I am always open to learning Playwright with JavaScript and can adapt quickly whenever required.
-For this assignment, choosing Java ensured a reliable and well-structured solution delivered on time.
+For this assignment, choosing Java ensured a reliable and well-structured solution delivered on time.-->
 
 
 ## Public demo website SwagLabs Automation
